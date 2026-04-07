@@ -6,8 +6,8 @@
   <img src="https://github.com/Erickecastro/Erickecastro/blob/output/github-contribution-grid-snake.gif"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickecastro&show_icons=true&theme=tokyonight&cache_seconds=10)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Erickecastro&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickecastro&layout=compact&theme=tokyonight&cache_seconds=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Erickecastro&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Erickecastro&theme=tokyonight)
