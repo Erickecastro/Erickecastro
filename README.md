@@ -8,11 +8,7 @@
   </a>
 </p>
 
-## 
-
 I'm a Brazilian software developer with experience in web, mobile, and backend development. I work with Python, C#, .NET, JavaScript, React, Node.js, MySQL, PostgreSQL, and Git. Passionate about game development, software architecture, performance optimization, automation, and building reliable, scalable applications.
-
-## 
 
 # Tools & Technologies:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -38,8 +34,6 @@ I'm a Brazilian software developer with experience in web, mobile, and backend d
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-## 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Erickecastro/Erickecastro/output/github-contribution-grid-snake.gif" alt="snake animation"/>
