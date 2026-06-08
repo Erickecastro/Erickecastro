@@ -14,7 +14,7 @@ I'm a Brazilian software developer with experience in web, mobile, and backend d
 
 ## 
 
-# 💻 Tech Stack:
+# Tools & Technologies:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
