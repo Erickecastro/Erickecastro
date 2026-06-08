@@ -45,7 +45,7 @@ I'm a Brazilian software developer with experience in web, mobile, and backend d
   <img src="https://raw.githubusercontent.com/Erickecastro/Erickecastro/output/github-contribution-grid-snake.gif" alt="snake animation"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+# GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Erickecastro&theme=dark&hide_border=true&background=0B1220&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=FFB347" alt="GitHub Streak"/>
