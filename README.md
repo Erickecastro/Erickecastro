@@ -36,10 +36,6 @@ I'm a Brazilian software developer with experience in web, mobile, and backend d
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Erickecastro/Erickecastro/output/github-contribution-grid-snake.gif" alt="snake animation"/>
-</p>
-
 # GitHub Stats
 
 <p align="center">
