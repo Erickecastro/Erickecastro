@@ -8,7 +8,11 @@
   </a>
 </p>
 
-I'm a Brazilian software developer with experience in web, mobile, and backend development. I work with Python, .NET, PostgreSQL and Git. Passionate about game development, software architecture, performance optimization, automation, and building reliable, scalable applications.
+I'm a Brazilian software developer focused on designing and building scalable, high-performance systems across web, mobile, and backend environments.
+
+My main stack includes Python, .NET, PostgreSQL, JavaScript and Git, and I’m particularly interested in software architecture, performance optimization, and automation.
+
+I care about writing clean, maintainable code and continuously improving system design and efficiency. I also explore game development as a way to deepen my understanding of performance and real-time systems.
 
 # Tools & Technologies:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
