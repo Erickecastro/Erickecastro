@@ -8,11 +8,40 @@
   </a>
 </p>
 
-I'm a Brazilian software developer focused on designing and building scalable, high-performance systems across web, mobile, and backend environments.
+Brazilian software developer with hands-on experience across web and backend development, IT operations, and technical support. Currently working as a Software Development Intern at SSP-AM, where I support both software systems and IT infrastructure in a public sector environment.
 
-My main stack includes Python, .NET, PostgreSQL, JavaScript and Git, and I’m particularly interested in software architecture, performance optimization, and automation.
+I work with Python, C#, .NET, JavaScript, PostgreSQL, and Git, focusing on building and maintaining reliable, scalable, and well-structured systems.
 
-I care about writing clean, maintainable code and continuously improving system design and efficiency. I also explore game development as a way to deepen my understanding of performance and real-time systems.
+## Interests
+
+- Backend development and API design  
+- Software architecture and clean code practices  
+- IT operations and systems support  
+- Infrastructure troubleshooting and automation  
+- Performance optimization and system design fundamentals  
+- Game development and interactive systems  
+
+## Experience
+
+**Software Development & IT Support Intern – SSP-AM (Secretaria de Segurança Pública do Estado do Amazonas)**  
+
+Work in a hybrid role combining software development, IT operations, and technical support in a production public sector environment.
+
+**Core Responsibilities:**
+
+- **Technical Support & IT Operations:** Installation, configuration, maintenance, and troubleshooting of computers, operating systems, peripherals, networks, and enterprise systems  
+- **Software Development:** Backend development with .NET 8, ASP.NET, REST APIs, and system integration using Refit  
+- **Web Development:** Building web applications using JavaScript, Node.js, Express, React, Vite, and CSS with MySQL integration  
+- **Systems & Data:** Working with SQL, relational databases, data modeling, and reporting workflows  
+- **Cybersecurity Awareness:** Applying security best practices, access control, and system hardening principles  
+
+Experience working directly with users and internal systems, supporting both software functionality and IT infrastructure stability.
+
+Experienced with Git and GitHub for version control, collaboration, and source code management.
+
+## Mindset
+
+I enjoy solving real-world problems by combining software development and IT operations, continuously improving system reliability, performance, and maintainability.
 
 # Tools & Technologies:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
