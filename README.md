@@ -1,16 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=&fontSize=0"/>
-</p>
+
+
+### Hi, I'm Ericke Castro 👋
+**Software Development Intern • Backend Developer • .NET Enthusiast**
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&duration=2500&pause=800&color=A2D9F7&background=84FFFE00&center=true&vCenter=true&width=900&lines=Hello!+Welcome+to+my+GitHub" alt="Typing SVG" />
-  </a>
+  <img src="readme image.png" alt="GitHub Banner" min-width="400px" max-width="400px" width="400px" align="right">
 </p>
 
-Brazilian software developer with hands-on experience across web and backend development, IT operations, and technical support. Currently working as a Software Development Intern at SSP-AM, where I support both software systems and IT infrastructure in a public sector environment.
+---
 
-I work with Python, C#, .NET, JavaScript, PostgreSQL, and Git, focusing on building and maintaining reliable, scalable, and well-structured systems.
+Software Development Intern with experience in backend development, web applications, IT infrastructure, and technical support. Currently developing internal systems and supporting enterprise environments at SSP-AM (Secretaria de Segurança Pública do Amazonas), using C#, ASP.NET Core, JavaScript, Node.js, PostgreSQL, and Git. Passionate about building scalable backend applications, designing REST APIs, and continuously improving software architecture and engineering practices.
 
 ## Interests
 
@@ -35,57 +34,66 @@ Work in a hybrid role combining software development, IT operations, and technic
 - **Systems & Data:** Working with SQL, relational databases, data modeling, and reporting workflows  
 - **Cybersecurity Awareness:** Applying security best practices, access control, and system hardening principles  
 
-Experience working directly with users and internal systems, supporting both software functionality and IT infrastructure stability.
+Experience working directly with users and internal systems, supporting both software functionality and IT infrastructure stability. Experienced with Git and GitHub for version control, collaboration, and source code management.
 
-Experienced with Git and GitHub for version control, collaboration, and source code management.
+## Previous Experience
 
-## Mindset
+**Critical Systems Monitoring Analyst - 3D Alarmes Monitoramento & Rastreamento Ltda**
 
-I enjoy solving real-world problems by combining software development and IT operations, continuously improving system reliability, performance, and maintainability.
+Before transitioning into software development, I worked in critical systems monitoring and electronic security operations, developing strong analytical, operational, and problem-solving skills.
 
-# Tools & Technologies:
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+**Main Responsibilities**
 
-# GitHub Stats
+- Monitored real-time telemetry and GPS tracking systems using enterprise platforms such as Getrak, SSX Tracking, Segware Cloud, and Somaseg.
+- Managed critical security alerts and coordinated response teams during incident handling.
+- Produced operational reports and performance analyses using Microsoft Word and Excel.
+- Provided customer support and guidance within electronic security operations.
+- Worked in a fast-paced environment requiring quick decision-making, attention to detail, and operational reliability.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Erickecastro&theme=dark&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideNums=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=FFB347" alt="GitHub Streak"/>
+## Tools & Technologies:
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,rider,aws"/>
+
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erickecastro&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erickecastro&theme=github_dark"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs,python,js,php"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erickecastro&theme=github_dark"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
+
 </p>
 
-## 
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</p>
+
+## Currently Learning
+
+- ASP.NET Core
+- Entity Framework Core
+- Clean Architecture
+- Docker
+- Azure
+- Design Patterns
+- Software Architecture
+
+##
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=footer&text=&fontSize=0"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickecastro&theme=github-dark&hide_border=true"/>
 </p>
