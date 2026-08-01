@@ -11,15 +11,6 @@
 
 Software Development Intern with experience in backend development, web applications, IT infrastructure, and technical support. Currently developing internal systems and supporting enterprise environments at SSP-AM (Secretaria de Segurança Pública do Amazonas), using C#, ASP.NET Core, JavaScript, Node.js, PostgreSQL, and Git. Passionate about building scalable backend applications, designing REST APIs, and continuously improving software architecture and engineering practices.
 
-## Interests
-
-- Backend development and API design  
-- Software architecture and clean code practices  
-- IT operations and systems support  
-- Infrastructure troubleshooting and automation  
-- Performance optimization and system design fundamentals  
-- Game development and interactive systems  
-
 ## Experience
 
 **Software Development & IT Support Intern – SSP-AM (Secretaria de Segurança Pública do Estado do Amazonas)**  
@@ -28,11 +19,11 @@ Work in a hybrid role combining software development, IT operations, and technic
 
 **Core Responsibilities:**
 
-- **Technical Support & IT Operations:** Installation, configuration, maintenance, and troubleshooting of computers, operating systems, peripherals, networks, and enterprise systems  
-- **Software Development:** Backend development with .NET 8, ASP.NET, REST APIs, and system integration using Refit  
-- **Web Development:** Building web applications using JavaScript, Node.js, Express, React, Vite, and CSS with MySQL integration  
-- **Systems & Data:** Working with SQL, relational databases, data modeling, and reporting workflows  
-- **Cybersecurity Awareness:** Applying security best practices, access control, and system hardening principles  
+**Technical Support & IT Operations:** Installation, configuration, maintenance, and troubleshooting of computers, operating systems, peripherals, networks, and enterprise systems  
+**Software Development:** Backend development with .NET 8, ASP.NET, REST APIs, and system integration using Refit  
+**Web Development:** Building web applications using JavaScript, Node.js, Express, React, Vite, and CSS with MySQL integration  
+**Systems & Data:** Working with SQL, relational databases, data modeling, and reporting workflows  
+**Cybersecurity Awareness:** Applying security best practices, access control, and system hardening principles  
 
 Experience working directly with users and internal systems, supporting both software functionality and IT infrastructure stability. Experienced with Git and GitHub for version control, collaboration, and source code management.
 
@@ -44,11 +35,11 @@ Before transitioning into software development, I worked in critical systems mon
 
 **Main Responsibilities**
 
-- Monitored real-time telemetry and GPS tracking systems using enterprise platforms such as Getrak, SSX Tracking, Segware Cloud, and Somaseg.
-- Managed critical security alerts and coordinated response teams during incident handling.
-- Produced operational reports and performance analyses using Microsoft Word and Excel.
-- Provided customer support and guidance within electronic security operations.
-- Worked in a fast-paced environment requiring quick decision-making, attention to detail, and operational reliability.
+Monitored real-time telemetry and GPS tracking systems using enterprise platforms such as Getrak, SSX Tracking, Segware Cloud, and Somaseg.
+Managed critical security alerts and coordinated response teams during incident handling.
+Produced operational reports and performance analyses using Microsoft Word and Excel.
+Provided customer support and guidance within electronic security operations.
+Worked in a fast-paced environment requiring quick decision-making, attention to detail, and operational reliability.
 
 ## Tools & Technologies:
 
@@ -81,6 +72,15 @@ Before transitioning into software development, I worked in critical systems mon
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
 </p>
+
+## Interests
+
+- Backend development and API design  
+- Software architecture and clean code practices  
+- IT operations and systems support  
+- Infrastructure troubleshooting and automation  
+- Performance optimization and system design fundamentals  
+- Game development and interactive systems  
 
 ## Currently Learning
 
