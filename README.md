@@ -1,6 +1,5 @@
 
-
-### Hi, I'm Ericke Castro 👋
+### Hello👋
 **Software Development Intern • Backend Developer • .NET Enthusiast**
 
 <p align="center">
