@@ -1,13 +1,12 @@
 
 ### Hello👋
-**Software Development**
 
 <p align="center">
   <img src="readme image.png" alt="GitHub Banner" min-width="400px" max-width="400px" width="400px" align="right">
 </p>
 
 ---
-
+### About me:
 Software Development with experience in backend development, web applications, IT infrastructure, and technical support. Currently developing internal systems and supporting enterprise environments at SSP-AM (Secretaria de Segurança Pública do Amazonas), using C#, ASP.NET Core, JavaScript, Node.js, PostgreSQL, and Git. Passionate about building scalable backend applications, designing REST APIs, and continuously improving software architecture and engineering practices.
 
 ## Experience
