@@ -43,19 +43,19 @@ Before transitioning into software development, I worked in critical systems mon
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,rider,aws"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,rider,aws,docker"/>
 
 </p>
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,php"/>
+<img src="https://skillicons.dev/icons?i=cs,python,js,php,kotlin"/>
 
 </p>
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nextjs"/>
 
 </p>
 
