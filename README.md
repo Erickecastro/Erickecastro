@@ -18,7 +18,7 @@ Work in a hybrid role combining software development, IT operations, and technic
 **Core Responsibilities:**
 
 - Installation, configuration, maintenance, and troubleshooting of computers, operating systems, peripherals, networks, and enterprise systems  
-- Backend development with .NET 8, ASP.NET, REST APIs, and system integration using Refit  
+- Backend development with .NET 10, ASP.NET, REST APIs, and system integration using Refit  
 - Building web applications using JavaScript, Node.js, Express, React, Vite, and CSS with MySQL integration  
 - Working with SQL, relational databases, data modeling, and reporting workflows  
 - Applying security best practices, access control, and system hardening principles  
