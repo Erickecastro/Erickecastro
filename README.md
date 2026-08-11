@@ -2,7 +2,7 @@
 ### Hello👋
 
 <p align="center">
-  <img src="readme image.png" alt="GitHub Banner" min-width="400px" max-width="400px" width="400px" align="right">
+  <img src="readme.png" alt="GitHub Banner" min-width="400px" max-width="400px" width="400px" align="right">
 </p>
 
 ---
