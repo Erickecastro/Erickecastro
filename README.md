@@ -54,7 +54,7 @@ Before transitioning into software development, I worked in critical systems mon
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,python,js,php,kotlin"/>
+<img src="https://skillicons.dev/icons?i=cs,python,js,kotlin"/>
 
 </p>
 
