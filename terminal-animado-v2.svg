@@ -1,0 +1,94 @@
+<svg width="760" height="210" viewBox="0 0 760 210" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono {
+      font-family: "Courier New", monospace;
+      font-size: 18px;
+    }
+
+    .prompt { fill: #7ee787; }
+    .cmd { fill: #58a6ff; }
+    .out { fill: #e6edf3; }
+
+    .char {
+      opacity: 0;
+      animation: show 0.001s forwards;
+    }
+
+    .instant {
+      opacity: 0;
+      animation: show 0.001s forwards;
+    }
+
+    .cursor {
+      fill: #e6edf3;
+      opacity: 0;
+      animation:
+        show 0.001s forwards,
+        blink 0.9s step-end infinite;
+    }
+
+    @keyframes show {
+      to { opacity: 1; }
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="758" height="208" rx="12"
+        fill="#000000" stroke="#30363d" stroke-width="2"/>
+
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="22" r="6" fill="#27c93f"/>
+
+  <g class="mono">
+
+    <!-- Primeiro comando -->
+    <text x="24" y="62" class="prompt">ericke@github:~$</text>
+
+    <text x="205" y="62" class="cmd">
+      <tspan class="char" style="animation-delay:0.50s"> </tspan>
+      <tspan class="char" style="animation-delay:0.62s">w</tspan>
+      <tspan class="char" style="animation-delay:0.74s">h</tspan>
+      <tspan class="char" style="animation-delay:0.86s">o</tspan>
+      <tspan class="char" style="animation-delay:0.98s">a</tspan>
+      <tspan class="char" style="animation-delay:1.10s">m</tspan>
+      <tspan class="char" style="animation-delay:1.22s">i</tspan>
+    </text>
+
+    <!-- Retorno imediato -->
+    <text x="24" y="88" class="out instant"
+          style="animation-delay:1.55s">
+      Software Developer
+    </text>
+
+    <!-- Segundo prompt -->
+    <text x="24" y="128" class="prompt instant"
+          style="animation-delay:2.25s">
+      ericke@github:~$
+    </text>
+
+    <text x="205" y="128" class="cmd">
+      <tspan class="char" style="animation-delay:2.55s"> </tspan>
+      <tspan class="char" style="animation-delay:2.67s">s</tspan>
+      <tspan class="char" style="animation-delay:2.79s">t</tspan>
+      <tspan class="char" style="animation-delay:2.91s">a</tspan>
+      <tspan class="char" style="animation-delay:3.03s">c</tspan>
+      <tspan class="char" style="animation-delay:3.15s">k</tspan>
+    </text>
+
+    <!-- Retorno imediato -->
+    <text x="24" y="158" class="out instant"
+          style="animation-delay:3.48s">
+      C# .NET PostgreSQL Docker Linux Git
+    </text>
+
+    <!-- Cursor final -->
+    <rect x="405" y="143" width="10" height="19"
+          class="cursor"
+          style="animation-delay:3.50s"/>
+  </g>
+</svg>
