@@ -26,10 +26,10 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
 
 <p>
   <a href="https://www.linkedin.com/in/ericke-castro/">
-    <img src="https://img.shields.io/badge/LINKEDIN-22C900?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-ErickeCastro-22C900?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/hen.vini/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
