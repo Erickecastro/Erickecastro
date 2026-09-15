@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 <p align="center">
-  <img src="readme.png" alt="GitHub Banner" width="400px" align="right">
+  <img src="readme2.png" alt="GitHub Banner" width="600px" align="right">
 </p>
 
 ---
