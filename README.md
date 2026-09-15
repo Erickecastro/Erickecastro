@@ -31,7 +31,7 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
 </p>
 <p>
     <a href="https://www.instagram.com/hen.vini/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge" />
   </a>
 </p>
 <p>
