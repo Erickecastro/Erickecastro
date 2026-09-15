@@ -27,11 +27,15 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
 <p>
   <a href="https://www.linkedin.com/in/ericke-castro/">
     <img src="https://img.shields.io/badge/LINKEDIN-ErickeCastro-22C900?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><!--
-  --><a href="https://www.instagram.com/hen.vini/">
+  </a>
+</p>
+<p>
+    <a href="https://www.instagram.com/hen.vini/">
     <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a><!--
-  --><a href="https://ericke-castro.pages.dev/#inicio">
+  </a>
+</p>
+<p>
+   <a href="https://ericke-castro.pages.dev/#inicio">
     <img src="https://img.shields.io/badge/PORTFOLIO-ErickeCastro-512BD4?style=for-the-badge" />
   </a>
 </p>
@@ -39,3 +43,6 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
 <p align="left">
   <img src="terminal-animado-v2.svg" alt="Terminal animado" width="640">
 </p>
+
+
+
