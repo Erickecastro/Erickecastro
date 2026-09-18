@@ -33,7 +33,3 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
     <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge" />
   </a>
 </p>
-
-
-
-
