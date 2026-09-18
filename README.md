@@ -1,27 +1,21 @@
-### Olá! 👋
+## Olá! 👋
 
 <p align="center">
-  <img src="readme2.png" alt="GitHub Banner" width="600px" align="right">
+  <img src="readme2.png" alt="GitHub Banner" width="570px" align="right">
 </p>
 
----
-
-### Sobre mim
+ Sobre mim
 
 Sou Desenvolvedor .NET com foco no desenvolvimento de aplicações backend, APIs REST e soluções multiplataforma. Atualmente trabalho com desenvolvimento de sistemas e suporte técnico na Secretaria de Segurança Pública do Estado do Amazonas (SSP-AM), participando do desenvolvimento e evolução de aplicações corporativas Web, Mobile e backend. 
 
 Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET, buscando evoluir em arquitetura de software, qualidade de código e construção de aplicações bem estruturadas e escaláveis.
 
----
+## Tecnologias
 
-### Tecnologias
+<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,azure,rider" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,kubernetes,linux,mongodb" /> </p>
 
-<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,azure,rider,vscode" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,kubernetes,linux,angular,androidstudio,mongodb" /> </p>
-
----
-
-### Contato
+##  Contato
 
 <p>
    <a href="https://ericke-castro.pages.dev/#inicio">
@@ -39,5 +33,7 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
     <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge" />
   </a>
 </p>
+
+
 
 
