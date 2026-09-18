@@ -4,7 +4,7 @@
   <img src="readme2.png" alt="GitHub Banner" width="570px" align="right">
 </p>
 
- Sobre mim
+### Sobre mim:
 
 Sou Desenvolvedor .NET com foco no desenvolvimento de aplicações backend, APIs REST e soluções multiplataforma. Atualmente trabalho com desenvolvimento de sistemas e suporte técnico na Secretaria de Segurança Pública do Estado do Amazonas (SSP-AM), participando do desenvolvimento e evolução de aplicações corporativas Web, Mobile e backend. 
 
