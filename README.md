@@ -16,7 +16,7 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
 
 ### Tecnologias
 
-<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,githubactions,rider,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,azure,rider,vscode" /> </p>
 <p> <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,kubernetes,linux,angular,androidstudio,mongodb" /> </p>
 
 ---
