@@ -16,13 +16,18 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
 
 ### Tecnologias
 
-<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,rider" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,githubactions,rider,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,kubernetes,linux,angular,androidstudio,mongodb" /> </p>
 
 ---
 
 ### Contato
+
+<p>
+   <a href="https://ericke-castro.pages.dev/#inicio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ErickeCastro-512BD4?style=for-the-badge" />
+  </a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/ericke-castro/">
@@ -32,11 +37,6 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
 <p>
     <a href="https://www.instagram.com/hen.vini/">
     <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge" />
-  </a>
-</p>
-<p>
-   <a href="https://ericke-castro.pages.dev/#inicio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ErickeCastro-512BD4?style=for-the-badge" />
   </a>
 </p>
 
