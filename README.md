@@ -40,9 +40,4 @@ Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET
   </a>
 </p>
 
-<p align="left">
-  <img src="terminal-animado-v2.svg" alt="Terminal animado" width="640">
-</p>
-
-
 
