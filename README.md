@@ -10,8 +10,8 @@ Sou Desenvolvedor .NET com foco no desenvolvimento de aplicações backend, APIs
 
 ## Tecnologias
 
-<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,azure,rider" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,kubernetes,linux,mongodb" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,azure,rider,vscode" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,kubernetes,linux,mongodb,angular" /> </p>
 
 ##  Contato
 
