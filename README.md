@@ -6,28 +6,35 @@
 
 ### Sobre mim:
 
-Sou Desenvolvedor .NET com foco no desenvolvimento de aplicações backend, APIs REST e soluções multiplataforma, trabalho com desenvolvimento de sistemas e suporte técnico na Secretaria de Segurança Pública do Estado do Amazonas (SSP-AM), participando do desenvolvimento e evolução de aplicações corporativas Web, Mobile e backend. Tenho direcionado meus estudos e projetos principalmente para o ecossistema .NET, buscando evoluir em arquitetura de software, qualidade de código e construção de aplicações bem estruturadas e escaláveis.
+Sou Desenvolvedor de Software com experiência em sistemas corporativos, APIs REST e aplicações Web, Mobile e backend. Atuo em desenvolvimento de sistemas e suporte técnico N2 na Secretaria de Segurança Pública do Estado do Amazonas (SSP-AM).
+
+Atualmente, direciono meus estudos e projetos para o desenvolvimento Android com Kotlin e Jetpack Compose, aproveitando minha experiência com C#, ASP.NET Core e .NET MAUI. Busco aprofundar meus conhecimentos em arquitetura MVVM, programação assíncrona, persistência de dados e testes automatizados, com foco em código bem organizado e aplicações que resolvam problemas reais.
 
 ## Tecnologias
 
-<p> <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,azure,rider,vscode" /> </p>
-<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,kubernetes,linux,mongodb,angular" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,angular,cs,dotnet" alt="Kotlin, Android Studio, Gradle, Angular, C# e .NET" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux" alt="PostgreSQL, SQLite, Docker, Git, GitHub e Linux" />
+</p>
 
-##  Contato
+## Contato
 
 <p>
-   <a href="https://ericke-castro.pages.dev/#inicio">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ErickeCastro-512BD4?style=for-the-badge" />
+  <a href="https://ericke-castro.pages.dev/#inicio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ErickeCastro-512BD4?style=for-the-badge" alt="Portfólio de Ericke Castro" />
   </a>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/ericke-castro/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ErickeCastro-22C900?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/erickecastro/">
+    <img src="https://img.shields.io/badge/LINKEDIN-ErickeCastro-22C900?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Ericke Castro" />
   </a>
 </p>
+
 <p>
-    <a href="https://www.instagram.com/hen.vini/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge" />
+  <a href="https://www.instagram.com/hen.vini/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-hen.vini-E4405F?style=for-the-badge" alt="Instagram de Ericke Castro" />
   </a>
 </p>
