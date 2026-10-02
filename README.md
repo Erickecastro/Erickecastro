@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 <p align="center">
-  <img src="Pastel.png" alt="GitHub Banner" width="570px" align="right">
+  <img src="image.png" alt="GitHub Banner" width="320px" align="right">
 </p>
 
 ### Sobre mim:
