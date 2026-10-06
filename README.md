@@ -9,7 +9,7 @@ Atualmente, direciono meus estudos e projetos para o desenvolvimento Android com
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,angular,cs,dotnet" alt="Kotlin, Android Studio, Gradle, Angular, C# e .NET" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,angular,cs,dotnet" alt="Kotlin, Android Studio, Java, Gradle, Angular, C# e .NET" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux" alt="PostgreSQL, SQLite, Docker, Git, GitHub e Linux" />
