@@ -1,9 +1,5 @@
 ## Olá! 👋
 
-<p align="center">
-  <img src="image.png" alt="GitHub Banner" width="320px" align="right">
-</p>
-
 ### Sobre mim:
 
 Sou Desenvolvedor de Software com experiência em sistemas corporativos, APIs REST e aplicações Web, Mobile e backend. Atuo em desenvolvimento de sistemas e suporte técnico N2 na Secretaria de Segurança Pública do Estado do Amazonas (SSP-AM).
