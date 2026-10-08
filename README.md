@@ -10,7 +10,7 @@ Sou Desenvolvedor de Software com experiência em sistemas corporativos, APIs RE
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,angular,cs,dotnet" alt="Kotlin, Android Studio, Java, Gradle, Angular, C# e .NET" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux" alt="PostgreSQL, SQLite, Docker, Git, GitHub e Linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux,rust" alt="PostgreSQL, SQLite, Docker, Git, GitHub e Linux" />
 </p>
 
 ## Contato
