@@ -2,9 +2,7 @@
 
 ### Sobre mim:
 
-Sou Desenvolvedor de Software com experiência em sistemas corporativos, APIs REST e aplicações Web, Mobile e backend. Atuo em desenvolvimento de sistemas e suporte técnico N2 na Secretaria de Segurança Pública do Estado do Amazonas (SSP-AM).
-
-Atualmente, direciono meus estudos e projetos para o desenvolvimento Android com Kotlin e Jetpack Compose, aproveitando minha experiência com C#, ASP.NET Core e .NET MAUI. Busco aprofundar meus conhecimentos em arquitetura MVVM, programação assíncrona, persistência de dados e testes automatizados, com foco em código bem organizado e aplicações que resolvam problemas reais.
+Sou Desenvolvedor de Software com experiência em sistemas corporativos, APIs REST e aplicações Web, Mobile e backend. Atuo em desenvolvimento de sistemas e suporte técnico N2 na Secretaria de Segurança Pública do Estado do Amazonas (SSP-AM). Atualmente, direciono meus estudos e projetos para o desenvolvimento Android com Kotlin e Jetpack Compose, aproveitando minha experiência com C#, ASP.NET Core e .NET MAUI. Busco aprofundar meus conhecimentos em arquitetura MVVM, programação assíncrona, persistência de dados e testes automatizados, com foco em código bem organizado e aplicações que resolvam problemas reais.
 
 ## Tecnologias
 
