@@ -13,7 +13,7 @@ Sou Desenvolvedor de Software com experiência em sistemas corporativos, APIs RE
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux,rust" alt="PostgreSQL, SQLite, Docker, Git, GitHub e Linux" />
 </p>
 
-## Contato
+## Informações adicionais
 
 <p>
   <a href="https://ericke-castro.pages.dev/#inicio">
