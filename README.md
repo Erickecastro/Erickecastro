@@ -1,10 +1,10 @@
-## Olá! 👋
+## HI! 
 
-### Sobre mim:
+### About me:
 
 Software Developer focused on the .NET ecosystem, working with application development, REST APIs, and enterprise solutions. Currently working at Manaus City Hall, contributing to system analysis and validation, bug investigation, improvement proposals, and technical coordination with development teams. Interested in software architecture, quality assurance, automated testing, and cross-platform development.
 
-## Tecnologias
+## Technologies:
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,kubernetes" alt="Kotlin, Android Studio, Java, Gradle, Angular, C# e .NET" />
@@ -13,7 +13,7 @@ Software Developer focused on the .NET ecosystem, working with application devel
   <img src="https://skillicons.dev/icons?i=docker,linux,rust,azure" alt="PostgreSQL, SQLite, Docker, Git, GitHub e Linux" />
 </p>
 
-## Informações adicionais
+## Additional info:
 
 <p>
   <a href="https://ericke-castro.pages.dev/#inicio">
